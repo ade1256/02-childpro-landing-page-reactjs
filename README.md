@@ -1,4 +1,4 @@
-# 01-reactjs-landing-page-reactstrap
+# 02-childpro-landing-page-reactjs
 
 This is the second time i'm was learning ReactJS and I create a simple page made from mockup and convert their to HTML and then convert again to ReactJS. 
 
